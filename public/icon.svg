@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="100%" height="100%">
+  <rect width="512" height="512" fill="#0F172A" rx="96"/>
+  <rect x="16" y="16" width="480" height="480" fill="none" stroke="#25A238" stroke-width="8" rx="80" opacity="0.6"/>
+  
+  <!-- Servilec Double Arrow Center Symbol -->
+  <g transform="translate(46, 40) scale(1.9)">
+    <!-- Top-Left Green Arrow Loop -->
+    <path fill="#25A238" d="M 110,20 C 60,20 20,60 20,110 C 20,132 28,152 42,168 L 62,148 C 52,137 46,124 46,110 C 46,75 75,46 110,46 C 132,46 152,57 165,75 L 132,95 L 205,98 L 198,25 L 175,48 C 158,31 135,20 110,20 Z"/>
+    
+    <!-- Bottom-Right Green Arrow Loop -->
+    <path fill="#25A238" d="M 110,200 C 160,200 200,160 200,110 C 200,88 192,68 178,52 L 158,72 C 168,83 174,96 174,110 C 174,145 145,174 110,174 C 88,174 68,163 55,145 L 88,125 L 15,122 L 22,195 L 45,172 C 62,189 85,200 110,200 Z"/>
+  </g>
+
+  <!-- SEC TE4 Text Badge at bottom -->
+  <rect x="136" y="420" width="240" height="54" fill="#15803D" rx="12"/>
+  <text x="256" y="458" font-family="'Arial Black', sans-serif" font-weight="900" font-size="34" fill="#FFFFFF" text-anchor="middle" letter-spacing="2">TE4 SEC</text>
+</svg>

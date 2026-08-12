@@ -1,0 +1,11 @@
+{
+  "name": "Remix  TE4 Solar  ver1",
+  "description": "Aplicación para checklist de inspección TE4 solar bajo normativa SEC Chile con captura de fotos, reporte PDF y exportación a Google Drive.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
